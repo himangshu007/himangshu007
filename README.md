@@ -2,7 +2,7 @@
 - 👀 I’m interested in SDE, Data Analyst role.
 - 🌱 I’m currently learning DSA in C++/Python/Java , ML , DL , DBMS , Computer Networks etc.
 - 💞️ I’m looking to collaborate on SDE, Data Analyst jobs.
-- 📫 How to reach me ...
+- 📫 How to reach me himangshubaruah22880@gmail.com
 
 <!---
 himangshu007/himangshu007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
