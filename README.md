@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himangshu007
-- 👀 I’m interested in SDE, Data Analyst role.
-- 🌱 I’m currently learning DSA in C++/Python/Java , ML , DL , DBMS , Computer Networks etc.
-- 💞️ I’m looking to collaborate on SDE, Data Analyst jobs.
+- 👀 I’m interested in Data Science roles (Data Analyst, Data Scientist etc), Consultancy roles.
+- 🌱 I’m currently learning Machine Learning, Deep Learning, other Data Science subjects, DBMS, DSA using Python etc.
+- 💞️ I’m looking to collaborate on Data Science jobs.
 - 📫 How to reach me himangshubaruah22880@gmail.com
 
 <!---
